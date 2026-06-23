@@ -14,7 +14,7 @@ Environment
 The code has been tested on:
   - Windows 10
   - Python 3.7+
-  - PyTorch 1.6.0+ (CUDA 10.1 or later recommended)
+  - PyTorch 2.7.1+ (CUDA 11.8 or later recommended)
   - A GPU with at least 6 GB memory is recommended for smooth inference. CPU-only inference is also supported but will be slower.
 
 -------
