@@ -22,7 +22,7 @@ Quick Start
 -------
 1. Install dependencies: pip install -r requirements.txt
 
-2. Install detectron2 [https://github.com/facebookresearch/detectron2]    
+2. Install detectron2 (https://github.com/facebookresearch/detectron2)    
 
 3. Change the configuration and dataset paths in train.py, then run it to get the models.
 
