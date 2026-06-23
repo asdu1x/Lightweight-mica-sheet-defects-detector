@@ -1,12 +1,12 @@
-Cross-Layer Adaptive Knowledge Distillation for Lightweight Metal Surface Scratch Detection
+Research on Lightweight Detection Method for Mica Sheet Defects
 =============================================================================
-This paper has been submitted to [The Visual Computer].
+This paper has been submitted to [Measurement Science and Technology].
 
-Authors: Bin Xu, Jianhong Huang, Yuyang Du, Tong Zhou, Jiangwen Tang, Hongyu Li, Qishi Hu, Bo Zhang, Kai Liu
+Authors: Jianhong Huang, Bo Zhang, Jingnan Zhou, Tong Zhou, Jiangwen Tang, Hongyu Li, Qishi Hu, Bin Xu and Kai Liu
 
-Repository: https://github.com/asdu1x/Lightweight-metal-scratch-detector 
+Repository: [https://github.com/asdu1x/Lightweight-metal-scratch-detector](https://github.com/asdu1x/Lightweight-mica-sheet-defects-detector) 
 
-This repository contains code for our lightweight metal scratch detector. It is intended to provide a demonstration of the model described in the paper.
+This repository contains code for our lightweight mica sheet defects detector. It is intended to provide a demonstration of the model described in the paper.
 
 -------
 Environment
