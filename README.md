@@ -6,7 +6,7 @@ Authors: Jianhong Huang, Bo Zhang, Jingnan Zhou, Tong Zhou, Jiangwen Tang, Hongy
 
 Repository: [https://github.com/asdu1x/Lightweight-metal-scratch-detector](https://github.com/asdu1x/Lightweight-mica-sheet-defects-detector) 
 
-This repository contains code for our lightweight mica sheet defects detector. It is intended to provide a demonstration of the model described in the paper.
+This repository contains code for our lightweight mica sheet defects detector. 
 
 -------
 Environment
